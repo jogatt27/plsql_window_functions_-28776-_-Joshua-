@@ -220,4 +220,4 @@ plsql_window_functions_project/
 
 ## 🔹 Evidence of Work
 
-Screenshots demonstrating SQL execution and results are stored in the `/screenshots` folder.
+Screenshots demonstrating SQL execution and results are stored in the document provided.
