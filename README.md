@@ -87,7 +87,7 @@ CREATE TABLE rentals (
 
 ### ER Diagram
 
-📸 Included in `"C:\Users\Joshua mg\Desktop\plnsql screenshots\ERDiagram.png"`
+📸 Included in `"screenshots/ERDiagram.png"`
 
 ---
 
